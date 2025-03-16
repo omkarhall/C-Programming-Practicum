@@ -1,2 +1,2 @@
 # CS-211
-UIC - C Programming Practicum
+C Programming Practicum
